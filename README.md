@@ -46,7 +46,7 @@ The universe of the Game of Life is an infinite, two-dimensional grid of square 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/conway-game-of-life.git
+https://github.com/Abhijith-Nagaraja/conway-game-of-life.git
 cd conway-game-of-life
 ```
 
